@@ -1,0 +1,8 @@
+.searchBarContainer {
+  width: 500px;
+  border: none;
+}
+
+.imageElement--carouselImage {
+  border-radius: 20px;
+}
