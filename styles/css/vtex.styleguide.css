@@ -1,8 +1,9 @@
 .input {
   background-color: #212121;
   text-transform: uppercase;
+  color: #fff;
 }
 
-.input .hideDecorators .noAppearance {
+.input::placeholder {
   color: #fff;
 }

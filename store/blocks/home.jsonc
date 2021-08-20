@@ -17,14 +17,14 @@
   },
   "image#1": {
     "props": {
-      "src": "https://maratonavirtual.s3.sa-east-1.amazonaws.com/6iibxhv7jzzdn2749uhoxub2fdjf?response-content-disposition=inline%3B%20filename%3D%22BANNER-WOOD.png%22%3B%20filename%2A%3DUTF-8%27%27BANNER-WOOD.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIRHGNFPZAGTZ7SUA%2F20210818%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210818T142543Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=3c910cb19df637b4a57380a879fdd0085d83334dd4c7238af815774ac0ad618d",
+      "src": "assets/banner1.png",
       "maxWidth": "912px",
       "blockClass": "carouselImage"
     }
   },
   "image#2": {
     "props": {
-      "src": "https://maratonavirtual.s3.sa-east-1.amazonaws.com/du3k6akoks0u3xe322aypnaaal8e?response-content-disposition=inline%3B%20filename%3D%22W6S9NXIJ40I86DJI17S40123EYNM3J6CNF24M4Y04GGC9TBSXU.png%22%3B%20filename%2A%3DUTF-8%27%27W6S9NXIJ40I86DJI17S40123EYNM3J6CNF24M4Y04GGC9TBSXU.png&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIRHGNFPZAGTZ7SUA%2F20210818%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210818T142619Z&X-Amz-Expires=300&X-Amz-SignedHeaders=host&X-Amz-Signature=dff7164472e0cbc9dd91ba0a2ae89a6184d46f67a32e134772f5013395ac00a8",
+      "src": "assets/banner2.png",
       "maxWidth": "912px",
       "blockClass": "carouselImage"
     }

@@ -6,3 +6,17 @@
 .imageElement--carouselImage {
   border-radius: 20px;
 }
+
+.searchBarContainer :global(.vtex-input-prefix__group) {
+  border: none;
+  border-bottom: 1px solid #59ff00;
+  border-radius: 0px;
+}
+
+.autoCompleteOuterContainer :global(.vtex-input__suffix) {
+  background: transparent;
+}
+
+.searchIcon {
+  color: #59ff00;
+}
