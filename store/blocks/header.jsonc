@@ -24,8 +24,9 @@
     },
     "children": [
       "flex-layout.col#logo-desktop",
-      // "flex-layout.col#spacer",
+      "flex-layout.col#spacer",
       "search-bar",
+      "flex-layout.col#spacer",
       "minicart.v2"
     ]
   },
@@ -39,11 +40,11 @@
     },
     "children": ["tab-layout"]
   },
-  // "flex-layout.col#spacer": {
-  //   "props": {
-  //     "width": "grow"
-  //   }
-  // },
+  "flex-layout.col#spacer": {
+    "props": {
+      "width": "grow"
+    }
+  },
   "search-bar": {
     "props": {
       "width": "80%"
