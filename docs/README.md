@@ -1,3 +1,3 @@
 # VTEX Challenge
 
-This is an unfinished challenge from VTEX Hiring Coders Fullstack Bootcamp using VTEX IO.
+This is a challenge from VTEX Hiring Coders Fullstack Bootcamp using VTEX IO.
