@@ -17,6 +17,21 @@
   background: transparent;
 }
 
-.searchIcon {
+.searchIcon,
+.swiperBullet--active,
+.sellingPrice,
+.installmentsPrice {
+  color: #fff;
+}
+
+.productBrand {
   color: #59ff00;
+}
+
+.buyButtonText {
+  color: #3c3c3c;
+  background-color: #59ff00;
+  padding: 10px 16px;
+  border-radius: 5px;
+  font-size: 0.875rem;
 }

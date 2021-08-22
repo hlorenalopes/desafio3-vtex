@@ -1,0 +1,11 @@
+.sellingPrice {
+  color: #59ff00;
+  font-size: 1rem;
+  background-color: #424242;
+  padding: 16px;
+  border-radius: 0 0 5px 5px;
+}
+
+.currencyContainer {
+  font-size: 1rem;
+}
